@@ -60,4 +60,5 @@ Our goal was to develop an algorithm for Prudential Life Insurance that optimize
 
 **Our Experimentation and Results
 **
+
 We experimented with various feature reduction techniques, starting with a review of existing research and exploring methods such as PCA, t-SNE, and autoencoders. Our experimentation involved preprocessing the Prudential dataset, handling missing values, and feature engineering. We evaluated the performance of different models, including Logistic Regression, Random Forest, and XGBoost, to assess the impact of feature reduction on model accuracy. Our results demonstrated that our approach significantly reduced the dataset dimensions while maintaining a robust performance, with XGBoost achieving a kappa score of 0.65. By balancing model performance with feature selection, we provided valuable insights into enhancing risk assessment processes in the insurance sector.
